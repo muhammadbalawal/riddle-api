@@ -3,7 +3,8 @@
 const items = [
     { "id": 1, "name": "Sword", "damage": 50 },
     { "id": 2, "name": "Bow", "damage": 35 },
-    { "id": 3, "name": "Axe", "damage": 60 }
+    { "id": 3, "name": "Axe", "damage": 60 },
+    { "id": 4, "name": "Slap", "damage": 90 }
 ];
 
 // Handle GET request
